@@ -1,16 +1,13 @@
-### Hi there 👋
+<div align="center" >
+<br>
+<br>
+<br>
+<br>
+<img src="https://user-images.githubusercontent.com/17585917/97656139-2457e780-1a3d-11eb-84e2-9a67845ee830.gif" height=300>
+<br>
+<br>
+<br>
+<br>
+<br>
+</div>
 
-<!--
-**alxclark/alxclark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
